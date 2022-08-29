@@ -51,5 +51,7 @@ public class StringOccurunce {
 			}
 		}
 		System.out.println(maxChar + " = " + maxValue);
+		System.out.println(m);
+		System.out.println(m1);
 	}
 }
